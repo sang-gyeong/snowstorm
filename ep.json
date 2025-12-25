@@ -1,0 +1,808 @@
+{
+  "items" : [ {
+    "conceptId" : "16559741000119107",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20180131",
+    "fsn" : {
+      "term" : "Percutaneous needle biopsy of cyst of spinal cord using computed tomography guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT guided percutaneous needle biopsy of cyst of spinal cord",
+      "lang" : "en"
+    },
+    "id" : "16559741000119107",
+    "idAndFsnTerm" : "16559741000119107 | Percutaneous needle biopsy of cyst of spinal cord using computed tomography guidance (procedure) |"
+  }, {
+    "conceptId" : "16554061000119109",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170731",
+    "fsn" : {
+      "term" : "Computed tomography myelogram of lumbosacral spine with lumbar injection of contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT myelogram of lumbosacral spine with lumbar injection of contrast",
+      "lang" : "en"
+    },
+    "id" : "16554061000119109",
+    "idAndFsnTerm" : "16554061000119109 | Computed tomography myelogram of lumbosacral spine with lumbar injection of contrast (procedure) |"
+  }, {
+    "conceptId" : "16547731000119108",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Diagnostic lumbar puncture using fluoroscopic guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopy guided diagnostic lumbar puncture",
+      "lang" : "en"
+    },
+    "id" : "16547731000119108",
+    "idAndFsnTerm" : "16547731000119108 | Diagnostic lumbar puncture using fluoroscopic guidance (procedure) |"
+  }, {
+    "conceptId" : "16410391000119107",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Fluoroscopic lumbosacral myelography (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopic lumbosacral myelography",
+      "lang" : "en"
+    },
+    "id" : "16410391000119107",
+    "idAndFsnTerm" : "16410391000119107 | Fluoroscopic lumbosacral myelography (procedure) |"
+  }, {
+    "conceptId" : "16384831000119100",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170731",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of cervical and thoracic spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Magnetic resonance imaging of cervical and thoracic spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "16384831000119100",
+    "idAndFsnTerm" : "16384831000119100 | Magnetic resonance imaging of cervical and thoracic spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "16383281000119103",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance angiography of spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Magnetic resonance angiography of spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "16383281000119103",
+    "idAndFsnTerm" : "16383281000119103 | Magnetic resonance angiography of spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "16328021000119109",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of brain and cervical spinal cord without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of brain and cervical spinal cord without contrast",
+      "lang" : "en"
+    },
+    "id" : "16328021000119109",
+    "idAndFsnTerm" : "16328021000119109 | Magnetic resonance imaging of brain and cervical spinal cord without contrast (procedure) |"
+  }, {
+    "conceptId" : "588111000119108",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170731",
+    "fsn" : {
+      "term" : "Computed tomography myelogram of thoracic spine with lumbar injection of contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT myelogram of thoracic spine with lumbar injection of contrast",
+      "lang" : "en"
+    },
+    "id" : "588111000119108",
+    "idAndFsnTerm" : "588111000119108 | Computed tomography myelogram of thoracic spine with lumbar injection of contrast (procedure) |"
+  }, {
+    "conceptId" : "572091000119106",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Computed tomography of lumbar spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT of lumbar spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "572091000119106",
+    "idAndFsnTerm" : "572091000119106 | Computed tomography of lumbar spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "572081000119108",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Computed tomography of thoracic spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Computed tomography of thoracic spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "572081000119108",
+    "idAndFsnTerm" : "572081000119108 | Computed tomography of thoracic spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "572061000119104",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Computed tomography of cervical spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT cervical spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "572061000119104",
+    "idAndFsnTerm" : "572061000119104 | Computed tomography of cervical spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "571891000119109",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of cervical spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of cervical spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "571891000119109",
+    "idAndFsnTerm" : "571891000119109 | Magnetic resonance imaging of cervical spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "495741000119105",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of cervical, thoracic, and lumbar spine with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of cervical, thoracic, and lumbar spine with contrast",
+      "lang" : "en"
+    },
+    "id" : "495741000119105",
+    "idAndFsnTerm" : "495741000119105 | Magnetic resonance imaging of cervical, thoracic, and lumbar spine with contrast (procedure) |"
+  }, {
+    "conceptId" : "413841000119101",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170731",
+    "fsn" : {
+      "term" : "Dual energy X-ray absorptiometry of bone of hip joint region and bone of spine (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Dual energy X-ray absorptiometry of bone of hip joint region and bone of spine",
+      "lang" : "en"
+    },
+    "id" : "413841000119101",
+    "idAndFsnTerm" : "413841000119101 | Dual energy X-ray absorptiometry of bone of hip joint region and bone of spine (procedure) |"
+  }, {
+    "conceptId" : "413001000119107",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170731",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of cervical and lumbar spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of cervical and lumbar spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "413001000119107",
+    "idAndFsnTerm" : "413001000119107 | Magnetic resonance imaging of cervical and lumbar spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "411611000119102",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of cervical, thoracic, and lumbar spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of cervical, thoracic, and lumbar spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "411611000119102",
+    "idAndFsnTerm" : "411611000119102 | Magnetic resonance imaging of cervical, thoracic, and lumbar spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "411571000119106",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of thoracic spine and lumbar spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of thoracic spine and lumbar spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "411571000119106",
+    "idAndFsnTerm" : "411571000119106 | Magnetic resonance imaging of thoracic spine and lumbar spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "411311000119108",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Computed tomography of sacrum and coccyx without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT of sacrum and coccyx without contrast",
+      "lang" : "en"
+    },
+    "id" : "411311000119108",
+    "idAndFsnTerm" : "411311000119108 | Computed tomography of sacrum and coccyx without contrast (procedure) |"
+  }, {
+    "conceptId" : "409771000119104",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of sacrum and coccyx without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of sacrococcygeal region of spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "409771000119104",
+    "idAndFsnTerm" : "409771000119104 | Magnetic resonance imaging of sacrum and coccyx without contrast (procedure) |"
+  }, {
+    "conceptId" : "396171000119100",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of thoracic spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of thoracic spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "396171000119100",
+    "idAndFsnTerm" : "396171000119100 | Magnetic resonance imaging of thoracic spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "394451000119106",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20170131",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of lumbar spine without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of lumbar spine without contrast",
+      "lang" : "en"
+    },
+    "id" : "394451000119106",
+    "idAndFsnTerm" : "394451000119106 | Magnetic resonance imaging of lumbar spine without contrast (procedure) |"
+  }, {
+    "conceptId" : "388321000119101",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20210731",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of sacrum without contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of sacrum without contrast",
+      "lang" : "en"
+    },
+    "id" : "388321000119101",
+    "idAndFsnTerm" : "388321000119101 | Magnetic resonance imaging of sacrum without contrast (procedure) |"
+  }, {
+    "conceptId" : "58211000087104",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20241101",
+    "fsn" : {
+      "term" : "Computed tomography of thoracic, lumbar and sacral spine (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT of thoracic and lumbosacral spine",
+      "lang" : "en"
+    },
+    "id" : "58211000087104",
+    "idAndFsnTerm" : "58211000087104 | Computed tomography of thoracic, lumbar and sacral spine (procedure) |"
+  }, {
+    "conceptId" : "14871000087107",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20190131",
+    "fsn" : {
+      "term" : "Computed tomography angiography of abdomen, pelvis and lumbar spine with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT angiography of abdomen, pelvis and lumbar spine with contrast",
+      "lang" : "en"
+    },
+    "id" : "14871000087107",
+    "idAndFsnTerm" : "14871000087107 | Computed tomography angiography of abdomen, pelvis and lumbar spine with contrast (procedure) |"
+  }, {
+    "conceptId" : "10361000087104",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20190131",
+    "fsn" : {
+      "term" : "Computed tomography of head and cervical spine (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT of head and cervical spine",
+      "lang" : "en"
+    },
+    "id" : "10361000087104",
+    "idAndFsnTerm" : "10361000087104 | Computed tomography of head and cervical spine (procedure) |"
+  }, {
+    "conceptId" : "1367647005",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250701",
+    "fsn" : {
+      "term" : "Plain X-ray of entire vertebral column (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of entire vertebral column",
+      "lang" : "en"
+    },
+    "id" : "1367647005",
+    "idAndFsnTerm" : "1367647005 | Plain X-ray of entire vertebral column (procedure) |"
+  }, {
+    "conceptId" : "1366542003",
+    "active" : true,
+    "definitionStatus" : "PRIMITIVE",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250601",
+    "fsn" : {
+      "term" : "Pulsed radiofrequency to spinal nerve root (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Pulsed radiofrequency to spinal nerve root",
+      "lang" : "en"
+    },
+    "id" : "1366542003",
+    "idAndFsnTerm" : "1366542003 | Pulsed radiofrequency to spinal nerve root (procedure) |"
+  }, {
+    "conceptId" : "1366358004",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250501",
+    "fsn" : {
+      "term" : "Percutaneous radiofrequency ablation of nucleus pulposus of intervertebral disc using computed tomography guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT guided percutaneous radiofrequency ablation of nucleus pulposus of intervertebral disc",
+      "lang" : "en"
+    },
+    "id" : "1366358004",
+    "idAndFsnTerm" : "1366358004 | Percutaneous radiofrequency ablation of nucleus pulposus of intervertebral disc using computed tomography guidance (procedure) |"
+  }, {
+    "conceptId" : "1363354007",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250401",
+    "fsn" : {
+      "term" : "Dynamic plain X-ray of lumbar and sacral spine (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Dynamic plain X-ray of lumbar and sacral spine",
+      "lang" : "en"
+    },
+    "id" : "1363354007",
+    "idAndFsnTerm" : "1363354007 | Dynamic plain X-ray of lumbar and sacral spine (procedure) |"
+  }, {
+    "conceptId" : "1363177002",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250401",
+    "fsn" : {
+      "term" : "Chemonucleolysis using fluoroscopic guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopy guided chemonucleolysis",
+      "lang" : "en"
+    },
+    "id" : "1363177002",
+    "idAndFsnTerm" : "1363177002 | Chemonucleolysis using fluoroscopic guidance (procedure) |"
+  }, {
+    "conceptId" : "1362120008",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250301",
+    "fsn" : {
+      "term" : "Percutaneous radiofrequency decompression of intervertebral disc using fluoroscopic guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopy guided percutaneous radiofrequency decompression of intervertebral disc",
+      "lang" : "en"
+    },
+    "id" : "1362120008",
+    "idAndFsnTerm" : "1362120008 | Percutaneous radiofrequency decompression of intervertebral disc using fluoroscopic guidance (procedure) |"
+  }, {
+    "conceptId" : "1362067005",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250301",
+    "fsn" : {
+      "term" : "Percutaneous injection of ozone into intervertebral disc using computed tomography guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT guided intradiscal injection of ozone",
+      "lang" : "en"
+    },
+    "id" : "1362067005",
+    "idAndFsnTerm" : "1362067005 | Percutaneous injection of ozone into intervertebral disc using computed tomography guidance (procedure) |"
+  }, {
+    "conceptId" : "1362066001",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250301",
+    "fsn" : {
+      "term" : "Percutaneous injection of ozone into intervertebral disc using fluoroscopic guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopy guided intradiscal injection of ozone",
+      "lang" : "en"
+    },
+    "id" : "1362066001",
+    "idAndFsnTerm" : "1362066001 | Percutaneous injection of ozone into intervertebral disc using fluoroscopic guidance (procedure) |"
+  }, {
+    "conceptId" : "1362050003",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250401",
+    "fsn" : {
+      "term" : "Dynamic plain X-ray of cervical vertebral column region (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Dynamic plain X-ray of cervical vertebral column region",
+      "lang" : "en"
+    },
+    "id" : "1362050003",
+    "idAndFsnTerm" : "1362050003 | Dynamic plain X-ray of cervical vertebral column region (procedure) |"
+  }, {
+    "conceptId" : "1359987006",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250201",
+    "fsn" : {
+      "term" : "Plain X-ray of atlantooccipital joint (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of atlantooccipital joint",
+      "lang" : "en"
+    },
+    "id" : "1359987006",
+    "idAndFsnTerm" : "1359987006 | Plain X-ray of atlantooccipital joint (procedure) |"
+  }, {
+    "conceptId" : "1359979005",
+    "active" : true,
+    "definitionStatus" : "PRIMITIVE",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250201",
+    "fsn" : {
+      "term" : "Plain X-ray of lumbar and sacral spine under stress (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of lumbar and sacral spine under stress",
+      "lang" : "en"
+    },
+    "id" : "1359979005",
+    "idAndFsnTerm" : "1359979005 | Plain X-ray of lumbar and sacral spine under stress (procedure) |"
+  }, {
+    "conceptId" : "1359964003",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250201",
+    "fsn" : {
+      "term" : "Plain X-ray of lumbosacral junction of vertebral column (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of lumbosacral junction of vertebral column",
+      "lang" : "en"
+    },
+    "id" : "1359964003",
+    "idAndFsnTerm" : "1359964003 | Plain X-ray of lumbosacral junction of vertebral column (procedure) |"
+  }, {
+    "conceptId" : "1359932005",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250201",
+    "fsn" : {
+      "term" : "Chemonucleolysis using computed tomography guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT guided chemonucleolysis",
+      "lang" : "en"
+    },
+    "id" : "1359932005",
+    "idAndFsnTerm" : "1359932005 | Chemonucleolysis using computed tomography guidance (procedure) |"
+  }, {
+    "conceptId" : "1356834006",
+    "active" : true,
+    "definitionStatus" : "PRIMITIVE",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250101",
+    "fsn" : {
+      "term" : "Plain X-ray of lumbar vertebral column region under stress (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of lumbar vertebral column region under stress",
+      "lang" : "en"
+    },
+    "id" : "1356834006",
+    "idAndFsnTerm" : "1356834006 | Plain X-ray of lumbar vertebral column region under stress (procedure) |"
+  }, {
+    "conceptId" : "1356826000",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20250101",
+    "fsn" : {
+      "term" : "Plain X-ray of thoracolumbar junction of vertebral column (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of thoracolumbar junction of vertebral column",
+      "lang" : "en"
+    },
+    "id" : "1356826000",
+    "idAndFsnTerm" : "1356826000 | Plain X-ray of thoracolumbar junction of vertebral column (procedure) |"
+  }, {
+    "conceptId" : "1345129006",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20241001",
+    "fsn" : {
+      "term" : "Dual energy X-ray absorptiometry of bone of lumbar vertebra (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Dual energy X-ray absorptiometry of bone of lumbar vertebra",
+      "lang" : "en"
+    },
+    "id" : "1345129006",
+    "idAndFsnTerm" : "1345129006 | Dual energy X-ray absorptiometry of bone of lumbar vertebra (procedure) |"
+  }, {
+    "conceptId" : "1343370001",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of spinal nerve root (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of spinal nerve root",
+      "lang" : "en"
+    },
+    "id" : "1343370001",
+    "idAndFsnTerm" : "1343370001 | Magnetic resonance imaging of spinal nerve root (procedure) |"
+  }, {
+    "conceptId" : "1343369002",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Magnetic resonance imaging of spinal nerve root with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "MRI of spinal nerve root with contrast",
+      "lang" : "en"
+    },
+    "id" : "1343369002",
+    "idAndFsnTerm" : "1343369002 | Magnetic resonance imaging of spinal nerve root with contrast (procedure) |"
+  }, {
+    "conceptId" : "1343368005",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Computed tomography myelography of lumbosacral spine with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Computed tomography myelography of lumbosacral spine with contrast",
+      "lang" : "en"
+    },
+    "id" : "1343368005",
+    "idAndFsnTerm" : "1343368005 | Computed tomography myelography of lumbosacral spine with contrast (procedure) |"
+  }, {
+    "conceptId" : "1343367000",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Fluoroscopy of epidural space with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopy of epidural space with contrast",
+      "lang" : "en"
+    },
+    "id" : "1343367000",
+    "idAndFsnTerm" : "1343367000 | Fluoroscopy of epidural space with contrast (procedure) |"
+  }, {
+    "conceptId" : "1343366009",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Computed tomography myelography of entire spinal canal with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "CT myelography of entire spinal canal with contrast",
+      "lang" : "en"
+    },
+    "id" : "1343366009",
+    "idAndFsnTerm" : "1343366009 | Computed tomography myelography of entire spinal canal with contrast (procedure) |"
+  }, {
+    "conceptId" : "1343365008",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240801",
+    "fsn" : {
+      "term" : "Fluoroscopic myelography of entire spinal canal with contrast (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Fluoroscopic myelography of entire spinal canal with contrast",
+      "lang" : "en"
+    },
+    "id" : "1343365008",
+    "idAndFsnTerm" : "1343365008 | Fluoroscopic myelography of entire spinal canal with contrast (procedure) |"
+  }, {
+    "conceptId" : "1303934005",
+    "active" : true,
+    "definitionStatus" : "PRIMITIVE",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240501",
+    "fsn" : {
+      "term" : "Correction of thoracic spine using self adjusting rod and pedicle screws using fluoroscopic guidance (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Minimally invasive correction of thoracic spine using self adjusting rod and pedicle screws using fluoroscopic guidance",
+      "lang" : "en"
+    },
+    "id" : "1303934005",
+    "idAndFsnTerm" : "1303934005 | Correction of thoracic spine using self adjusting rod and pedicle screws using fluoroscopic guidance (procedure) |"
+  }, {
+    "conceptId" : "1290953004",
+    "active" : true,
+    "definitionStatus" : "FULLY_DEFINED",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240401",
+    "fsn" : {
+      "term" : "Plain X-ray of vertebral column region and pelvis (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of spine and pelvis",
+      "lang" : "en"
+    },
+    "id" : "1290953004",
+    "idAndFsnTerm" : "1290953004 | Plain X-ray of vertebral column region and pelvis (procedure) |"
+  }, {
+    "conceptId" : "1290938007",
+    "active" : true,
+    "definitionStatus" : "PRIMITIVE",
+    "moduleId" : "900000000000207008",
+    "effectiveTime" : "20240401",
+    "fsn" : {
+      "term" : "Plain X-ray of lumbar and sacral spine, anteroposterior and lateral (procedure)",
+      "lang" : "en"
+    },
+    "pt" : {
+      "term" : "Plain X-ray of lumbosacral spine, anteroposterior and lateral",
+      "lang" : "en"
+    },
+    "id" : "1290938007",
+    "idAndFsnTerm" : "1290938007 | Plain X-ray of lumbar and sacral spine, anteroposterior and lateral (procedure) |"
+  } ],
+  "total" : 376,
+  "limit" : 50,
+  "offset" : 0,
+  "searchAfter" : "WzEyOTA5MzgwMDdd",
+  "searchAfterArray" : [ 1290938007 ]
+}
